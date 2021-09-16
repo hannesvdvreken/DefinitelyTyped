@@ -3,6 +3,7 @@
 // Definitions by: Rogier Schouten <https://github.com/rogierschouten>
 //                 Piotr Roszatycki <https://github.com/dex4er>
 //                 Daniel Chao <https://github.com/bioball>
+//                 Hannes Van De Vreken <https://github.com/hannesvdvreken>
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 // TypeScript Version: 3.3
 
