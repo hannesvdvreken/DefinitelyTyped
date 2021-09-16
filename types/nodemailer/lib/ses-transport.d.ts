@@ -67,7 +67,7 @@ declare namespace SESTransport {
 
     interface Options extends MailOptions, TransportOptions {
         /** is an option that expects an instantiated aws.SES object */
-        SES: any; // aws-sdk.SES object
+        SES?: any; // aws-sdk.SES object
         /** How many messages per second is allowed to be delivered to SES */
         maxConnections?: number | undefined;
         /** How many parallel connections to allow towards SES */
